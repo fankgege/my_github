@@ -3,3 +3,5 @@ the system is virturl
 add  new sister
 Git is  free software
 						
+Git ken  status 
+change  words
